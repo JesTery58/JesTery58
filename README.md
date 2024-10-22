@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am 17 years old. I m from Turkey. ı was SoftWare Developer since 2 years.
+
 <!--
 **JesTery58/JesTery58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
